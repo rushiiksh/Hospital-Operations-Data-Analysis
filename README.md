@@ -21,13 +21,13 @@ This project analyses hospital operations and patient data to uncover trends, ev
 
 ## Project Structure
 
-Hospital_Data_Analysis/
-│
-├── data/
-├── charts/
-├── notebooks/
-├── reports/
-└── README.md
+| Folder    | Description |
+|-----------|-------------|
+| data      | Raw and cleaned hospital datasets |
+| charts    | Visualisations generated during analysis |
+| notebooks | Jupyter notebook with complete analysis |
+| reports   | Final report and documentation |
+| README.md | Project overview and instructions |
 
 ## Key Analysis Performed
 - Data Cleaning
